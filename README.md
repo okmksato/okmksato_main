@@ -1,2 +1,1 @@
-# okmksato_main  
-![スーパーグランマ](supergrandma/supergrandma.mp4)
+# okmksato_main
