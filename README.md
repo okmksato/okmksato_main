@@ -1,5 +1,5 @@
 # プロジェクトファイル保存場所  
 
-[krita プロジェクトファイル](https://github.com/okmksato/okmksato_main/tree/main/krita)  
+[krita プロジェクトファイル](https://github.com/okmksato/okmksato_main/tree/main/krita/readme.md)  
 
-[Windows フォト（ビデオエディタ）プロジェクトファイル](https://github.com/okmksato/okmksato_main/tree/main/windows_photo)
+[Windows フォト（ビデオエディタ）プロジェクトファイル](https://github.com/okmksato/okmksato_main/tree/main/windows_photo/readme.md)
