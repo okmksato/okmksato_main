@@ -8,5 +8,9 @@ krita https://krita.org/jp/ で作成したGIFアニメーション等です
 
 [因果応報](ingaouhou/)  
 
+![因果応報](ingaouhou/ingaouhou.gif)  
 
-![因果応報](ingaouhou/ingaouhou.gif)
+[そっ閉じ](sottoji/)  
+
+![そっ閉じ](sottoji/sottoji.gif)
+
