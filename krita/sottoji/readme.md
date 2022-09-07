@@ -14,6 +14,6 @@ gifアニメ（完成品）
 前加工で使用した GIMP データ  
 [sottoji.xcf](sottoji.xcf)  
   
-GIMP データからPhotoshop形式ファイル  
+GIMP で出力したPhotoshop形式ファイル → krita で読み込み  
 [sottoji.psd](sottoji.psd)  
 
