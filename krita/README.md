@@ -1,7 +1,7 @@
 # krita
 
 krita https://krita.org/jp/ で作成したGIFアニメーション等です  
-Linux版で作成していますが、Winndows版もあります  
+Linux版で作成していますが、Winndows版、macOS版もあります  
 
 プロジェクトファイルは共通ですが、動作環境、バージョンによっては正常に動作しない場合があります  
 
