@@ -4,7 +4,10 @@ krita https://krita.org/jp/ で作成したGIFアニメーション等です
 Linux版で作成していますが、Winndows版、macOS版もあります
 
 **■ 注意 ■**  
-Krita は [Microsoft Store](https://apps.microsoft.com/store/apps) では有料となってます  
+Krita は [Microsoft Store](https://apps.microsoft.com/store/apps) では有料となってます
+
+ダウンロード版は無料です
+
 ダウンロードサイトからインストール版またはポータブル版をダウンロードしてご利用ください ⇒ [ダウンロードサイト](https://krita.org/jp/download-jp/krita-desktop-jp/)  
 ※ お試しの場合はポータブル版がオススメです
 
