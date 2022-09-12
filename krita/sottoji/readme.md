@@ -17,3 +17,4 @@ gifアニメ（完成品）
 GIMP で出力したPhotoshop形式ファイル → krita で読み込み  
 [sottoji.psd](sottoji.psd)  
 
+もっと動きの多いアニメにするつもりでしたので必要以上に細かくレイヤーを分けています
