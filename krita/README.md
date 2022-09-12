@@ -20,7 +20,10 @@ Krita は [Microsoft Store](https://apps.microsoft.com/store/apps) では有料�
 
 ![そっ閉じ](sottoji/sottoji.gif)
 
-
 [中国ガー](ga/)
 
 ![中国ガー](ga/ga.gif)
+
+[どつぼ](dotsubo/)
+
+![どつぼ](dotsubo/dotsubo.gif)
